@@ -17,3 +17,4 @@ class Solution:
             counter -= 1
             nums.append(0)
         return nums
+        
