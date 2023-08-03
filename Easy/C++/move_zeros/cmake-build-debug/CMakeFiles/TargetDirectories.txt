@@ -1,0 +1,3 @@
+/Users/michalkielkowski/Desktop/infa-all/leetcode-solutions -C++/move_zeros/cmake-build-debug/CMakeFiles/move_zeros.dir
+/Users/michalkielkowski/Desktop/infa-all/leetcode-solutions -C++/move_zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michalkielkowski/Desktop/infa-all/leetcode-solutions -C++/move_zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir

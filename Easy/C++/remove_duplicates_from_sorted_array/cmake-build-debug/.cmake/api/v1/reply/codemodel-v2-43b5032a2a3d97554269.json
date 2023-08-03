@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "remove_dulicates_from_sorted_array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "remove_dulicates_from_sorted_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-remove_dulicates_from_sorted_array-Debug-b1256cf500a28e23e037.json",
+					"name" : "remove_dulicates_from_sorted_array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/michalkielkowski/Desktop/infa-all/leetcode-solutions -C++/remove_dulicates_from_sorted_array/cmake-build-debug",
+		"source" : "/Users/michalkielkowski/Desktop/infa-all/leetcode-solutions -C++/remove_dulicates_from_sorted_array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
