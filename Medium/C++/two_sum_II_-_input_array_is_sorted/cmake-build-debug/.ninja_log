@@ -1,0 +1,4 @@
+# ninja log v5
+1	183	1697541959086996744	build.ninja	45328c1dc0210ae0
+17	1829	1697538954115094374	CMakeFiles/two_sum_II___input_array_is_sorted.dir/test.cpp.o	b2ebdaece3877dbd
+1830	1948	1697538954245498025	two_sum_II___input_array_is_sorted	45f354bbf952dfe5

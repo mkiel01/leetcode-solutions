@@ -1,0 +1,4 @@
+# ninja log v5
+1	158	1696983166384671110	build.ninja	5dd070c0ddf22747
+16	1110	1696982439962861359	CMakeFiles/top_k_frequent_elements.dir/test.cpp.o	8c6c3257e58f0c82
+1110	1200	1696982440063373843	top_k_frequent_elements	806da032b6685153

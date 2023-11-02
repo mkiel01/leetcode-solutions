@@ -1,0 +1,16 @@
+# ninja log v5
+1	165	1697535379730521012	build.ninja	357e701d77776a27
+0	1057	1697535380808408393	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+1062	1172	1697535380927335057	valid_palindrome	efac6bffb780faf6
+21	1005	1697535486415753814	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+1005	1117	1697535486530782100	valid_palindrome	efac6bffb780faf6
+23	955	1697536075006726256	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+956	1075	1697536075130806623	valid_palindrome	efac6bffb780faf6
+25	982	1697536102218477885	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+982	1097	1697536102337734967	valid_palindrome	efac6bffb780faf6
+14	947	1697536141987982883	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+948	1072	1697536142115870994	valid_palindrome	efac6bffb780faf6
+25	1322	1697536265612013619	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+1323	1494	1697536265790397089	valid_palindrome	efac6bffb780faf6
+21	1014	1697536283565741494	CMakeFiles/valid_palindrome.dir/test.cpp.o	15e5f49b943cc0d
+1014	1128	1697536283683891283	valid_palindrome	efac6bffb780faf6
